@@ -30,3 +30,19 @@
   iii) Error Handling Level
    iv) Builtin
     v) Third Party
+
+
+#17/07/2024
+1) Knowing about REST API
+
+2) Learned different ways to connect to mongobd - using Mongoose , using MongoClient , Working on Momgobd and learned some of methods that are useful for implementing CRUD operations
+ 
+3) Learned what is the use of dotenv
+ 
+4) MVC Architecture (Model , View , Controller)
+
+5) NoSQL Vocabulary
+
+6) Implemented CRUD - (Create , Read , Update , Destroy/Delete) operations on Mongodb and tested them using postman
+
+7) Learned about REST API end points 
