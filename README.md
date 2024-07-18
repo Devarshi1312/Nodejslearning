@@ -46,3 +46,19 @@
 6) Implemented CRUD - (Create , Read , Update , Destroy/Delete) operations on Mongodb and tested them using postman
 
 7) Learned about REST API end points 
+
+#18/07/2024
+1) Knowing about ejs
+
+2) How ejs works - server side rendering(Rendering HTML files using the Backend(Node.js,Express.js))
+
+3) Knowing about authentication and types of authentication(Stateful authentication contains session and coockies)
+
+4) Implemented Hashing of password and pushing into database
+
+5) Practiced these topics by creating :
+   i) Register page - registering the user and pushing his data into database by hashing the password and also created sessions for that
+  ii) Login Page - In this i did user confirmation by comapring passwords
+ iii) Logout Page - This destroys the sessions and allows the user to login again
+
+6) Learned how to connect the style.css page using EJS
