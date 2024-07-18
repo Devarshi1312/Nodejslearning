@@ -62,3 +62,5 @@
  iii) Logout Page - This destroys the sessions and allows the user to login again
 
 6) Learned how to connect the style.css page using EJS
+
+7) JavaScript concepts
