@@ -64,3 +64,18 @@
 6) Learned how to connect the style.css page using EJS
 
 7) JavaScript concepts
+
+#22/07/2024
+1) Knowing about Hoisting in JavaScript
+
+2) What are Let and const and Var in JS and how they are used
+
+3) Gaining knowledge about Block Scope and Shadowing 
+
+4) Closures and setTimeout in JS
+
+5) First Class functions , Anonymous Functions in JS
+
+6) Callback Functions , Event Listeners in JS
+
+7) Asynchronous Function and Event Loop in JS
